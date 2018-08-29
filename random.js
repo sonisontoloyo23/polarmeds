@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2018/03/disruption-ahead-common-questions.html"}
 if(x=="2"){xxx="/2018/03/ultra-state-of-economy-update-positive.html"}
 if(x=="3"){xxx="/2018/03/in-consideration-of-connected.html"}
 if(x=="4"){xxx="/2018/03/the-role-of-information-technology-in.html"}
-if(x=="5"){xxx="/2018/03/three-key-considerations.html"}a_to_ve[i].href="http://www.erp-software-service.trade"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2018/03/three-key-considerations.html"}a_to_ve[i].href="http://www.erp-software-service.us"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
